@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "386373478966",
+    "project_id": "expense-calculator-cd1bd",
+    "storage_bucket": "expense-calculator-cd1bd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386373478966:android:21822b048e86138f7cc697",
+        "android_client_info": {
+          "package_name": "com.expensecalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386373478966-vm03l0hvk3oivf56b5kcb1j2jf2nft6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.expensecalculator",
+            "certificate_hash": "6e55d45666b092bcb22df4cca577ffafd11a6be1"
+          }
+        },
+        {
+          "client_id": "386373478966-4ljg6o1gs3od3v20t75g30j8ui4kapjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKny5r5PYfycHDLfyHrD4GcOuUXbDAxpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386373478966-4ljg6o1gs3od3v20t75g30j8ui4kapjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386373478966:android:75188fce997dbe907cc697",
+        "android_client_info": {
+          "package_name": "com.manuelcode98.gestordegastos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386373478966-4ljg6o1gs3od3v20t75g30j8ui4kapjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKny5r5PYfycHDLfyHrD4GcOuUXbDAxpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386373478966-4ljg6o1gs3od3v20t75g30j8ui4kapjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
